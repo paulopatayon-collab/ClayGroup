@@ -27,7 +27,6 @@ export default function DemoOne() {
           className="w-full h-full absolute inset-0"
           colors={["#1E104E", "#1a1a1a", "#333333", "#FFC300"]}
           speed={speed}
-          backgroundColor="#1E104E"
         />
       )}
 
@@ -50,7 +49,6 @@ export default function DemoOne() {
             colors={["#1E104E", "#1a1a1a", "#333333", "#FFC300"]}
             speed={speed * 0.5}
             wireframe="true"
-            backgroundColor="#1E104E"
           />
           <div className="w-full h-full absolute inset-0 opacity-60">
             <DotOrbit
