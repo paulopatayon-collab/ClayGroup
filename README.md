@@ -14,7 +14,7 @@ A Next.js project showcasing interactive 3D shader effects built with Three.js a
 ## Project Structure
 
 ```
-my-shader-app/
+ClayGroup/
 ├── app/
 │   ├── demo/
 │   │   └── page.tsx          # Main demo page
