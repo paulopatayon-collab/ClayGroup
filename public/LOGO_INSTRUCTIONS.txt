@@ -1,0 +1,18 @@
+LOGO SETUP INSTRUCTIONS
+========================
+
+Please save your golden triangle logo image as:
+  public/logo.png
+
+The logo should be:
+- PNG format with transparent background
+- Recommended size: 400x400px or larger (will be displayed at 200x200px)
+- The golden triangle design from your images
+
+Once you save the logo as "logo.png" in this public folder, 
+it will automatically appear on the home page.
+
+Current location: c:\Users\Veronica\Desktop\pau\my-shader-app\public\
+
+Alternative: If you have the logo in a different format or name, 
+update the Image src in app/page.tsx to match your filename.
